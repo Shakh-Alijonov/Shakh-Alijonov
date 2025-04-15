@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💫 About Me<br>👨‍💻 I’m a passionate and detail-oriented developer with a strong focus on clean code, performance, and scalable architecture.<br>🚀 I love building robust solutions — from full-stack web apps to automation tools and bots.<br>📚 I’m always learning and exploring modern technologies, clean patterns, and best practices to level up my craft.<br><br>🧠 Tech Stack<br>Languages: Python 🐍 | JavaScript ⚙️ | TypeScript 🔡<br>Frameworks: Node.js, Express, React, Next.js ⚛️<br>Databases: PostgreSQL 🐘 | MongoDB 🍃 | Firebase 🔥<br>Tools: Git, Docker, CI/CD, Linux, VS Code 💻<br>Also familiar with: Vue.js, PowerShell, MySQL, Adobe, Figma, Canva
 
 
